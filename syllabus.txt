@@ -1,0 +1,26 @@
+Course Name: Python Programming
+
+Unit 1: Introduction to Python
+- Variables
+- Data Types
+- Operators
+
+Unit 2: Control Statements
+- If Else
+- For Loop
+- While Loop
+
+Unit 3: Functions
+- Function Definition
+- Function Arguments
+- Lambda Functions
+
+Unit 4: Data Structures
+- Lists
+- Tuples
+- Dictionaries
+
+Unit 5: File Handling
+- Reading Files
+- Writing Files
+- Exception Handling
